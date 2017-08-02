@@ -4,7 +4,7 @@ Windows has a built-in power saving setting that activates after long periods of
 inactivity. Windows still hasn’t figured out that your PC is active when a video stream is running in the background, 
 especially when its not being watched in the full screen mode!
 
-Using this applicatio we can avoid such scenarios.
+Using this applicatio we can prevent windows auto lock.
 
 ## **How to Run:**
 
@@ -13,3 +13,18 @@ Using this applicatio we can avoid such scenarios.
 >- Select the project -> File -> Export -> Java -> Runnable JAR File
 
 >- Right click on existing Jar -> Open with -> Java Platform SE Binary
+
+>- Start the Application by clicking start button
+
+----------
+
+![Start Application](https://github.com/suku19/windows-auto-lock-preventer/blob/master/img/start.jpg)
+
+----------
+>- Stop the Application by clicking stop button
+
+----------
+
+![Stop_Application](https://github.com/suku19/windows-auto-lock-preventer/blob/master/img/stop.jpg)
+
+----------
